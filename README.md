@@ -52,10 +52,10 @@ public enum PLATFORMS
 
 public enum SKILLS
 {
-¦    Cyber_Security_Researcher,
-¦    Ethical_Hacker,
-¦    Bug_Bounty_Hunter,
-¦    CTF_Player,
+¦    Cyber Security Researcher,
+¦    Ethical Hacker,
+¦    Bug Bounty Hunter,
+¦    CTF Player,
 ¦    OSINT Expert
 }
 
