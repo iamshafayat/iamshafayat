@@ -55,8 +55,8 @@ public enum SKILLS
 ¦    Cyber Security Researcher,
 ¦    Ethical Hacker,
 ¦    Bug Bounty Hunter,
-¦    CTF Player,
-¦    OSINT Expert
+¦    Red Teamer,
+¦    CTF Player
 }
 
 public enum LANGUAGE
