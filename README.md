@@ -37,6 +37,7 @@ public class EXPERIENCE
 {
 ¦    public string Role1   = "Security Researcher @ HackerOne";
 ¦    public string Role2   = "Security Researcher @ Bugcrowd";
+¦    public string Role2   = "Security Researcher @ YesWeHack";
 ¦    public string Role3   = "Penetration Tester @ Cipher Shadow IT";
 ¦    public string Role4   = "Security Researcher @ Gray Hat Squad";
 ¦    public string[] CTF   = { "Pirates of The Dead Flag" };
